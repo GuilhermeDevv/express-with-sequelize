@@ -16,7 +16,7 @@
 # ALTERAÇÕES DE CONFIG
 ## (config)
 
-- src/config/database.js (configurações do banco de dados)
+- src/config/database.json (configurações do banco de dados)
 
 # OBSERVAÇÕES
 
